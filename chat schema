@@ -1,0 +1,44 @@
+chat name = kio
+
+users
+- id
+- usernames
+- avatar_url
+- created_at
+
+kios
+- id
+- name (optional for group chat)
+- created_by
+- created_at
+- last_modified_by
+- last_modified_at
+- deleted_by
+- deleted_at
+
+kio_members
+- id
+- kio_id
+- user_id
+- joined_at
+- left_at
+- created_by
+- created_at
+- last_modified_by
+- last_modified_at
+- deleted_by
+- deleted_at
+
+kio_messages
+- id
+- kio_id
+- sender_user_id
+- body
+- type (text/file)
+- status (sent/delivered/read)
+- created_by
+- created_at
+- last_modified_by
+- last_modified_at
+- deleted_by
+- deleted_at

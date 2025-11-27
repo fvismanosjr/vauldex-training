@@ -1,0 +1,23 @@
+2025-11-19 00:43:44 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h17m5s615ms).
+2025-11-19 01:51:16 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h7m32s736ms).
+2025-11-19 02:48:10 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56m53s170ms).
+2025-11-19 03:38:16 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m6s715ms).
+2025-11-19 04:49:07 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h10m50s183ms).
+2025-11-19 05:50:09 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h1m2s584ms).
+2025-11-19 06:51:06 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h56s735ms).
+2025-11-19 07:01:27 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m21s263ms).
+2025-11-19 07:44:49 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=43m22s248ms).
+2025-11-19 09:29:50 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m59s737ms).
+2025-11-19 10:01:06 INFO  c.e.s.service.StudentService - Fetching all students
+2025-11-19 10:01:09 INFO  c.e.s.service.StudentService - Fetching all students
+2025-11-19 10:01:14 INFO  c.e.s.service.StudentService - Fetching all students
+2025-11-19 11:06:28 INFO  c.e.s.service.StudentService - Fetching all students
+2025-11-19 11:06:35 INFO  c.e.s.service.StudentService - Fetching all students
+2025-11-19 11:16:46 INFO  c.e.s.service.StudentService - Fetching all students
+2025-11-19 11:24:37 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m46s441ms).
+2025-11-19 11:38:46 WARN  c.e.s.e.GlobalExceptionHandler - User not found
+2025-11-19 12:08:55 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m17s856ms).
+2025-11-19 12:13:37 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m42s582ms).
+2025-11-19 12:16:56 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m48s984ms).
+2025-11-19 12:18:34 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m37s341ms).
+2025-11-19 12:37:43 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m39s666ms).

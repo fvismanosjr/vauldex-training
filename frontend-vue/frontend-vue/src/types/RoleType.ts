@@ -1,0 +1,1 @@
+export type RoleType = 'ROLE_SUDO' | 'ROLE_ADMIN' | 'ROLE_STUDENT' | 'guest';
